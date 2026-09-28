@@ -1,0 +1,7 @@
+{
+  "name": "RadarVision - Contrôleur de Vitesse en Temps Réel",
+  "description": "Système radar de contrôle de vitesse automobile en temps réel par caméra avec détection optique, alertes sonores d'excès et télémétrie fluide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
